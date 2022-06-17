@@ -40,7 +40,7 @@ Seu tempo de execução no pior caso: O(log n)
 
 # Busca Sequencial
 
-A busca sequencial (também conhecido como busca linear) é o algoritmo mais simples de busca, porém tem baixa eficiência 
+A busca sequencial (também conhecido como busca linear) é o algoritmo mais simples de busca, trata-se de um algoritmo percorre o vetor até encontrar o valor desejado, porém tem baixa eficiência. 
 
 * Exemplo:
 <br>
