@@ -1,4 +1,4 @@
-# Algoritmos-de-Busca
+# Algoritmos de Busca
 
 Nesse tópico irei estar disponibilizando dois (02) dos principais algoritmos de busca
 
